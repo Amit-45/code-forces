@@ -35,32 +35,6 @@ void solve()
         }
     }
 }
-// for (i = 0; i < str1.length(); i++)
-// {
-//     for (j = 0; j < str2.length(); j++)
-//     {
-//        if (str1[i] > str2[j])
-//         {
-//             return 1;
-//         }
-//         else if (str1[i] < str2[j])
-//         {
-//             return -1;
-//         }
-//         else if (str1[i] = str2[j])
-//         {
-//             return 0;
-//         }
-//     }
-// }
-// if (str1[i] > str2[j])
-// {
-//     cout << 1 << endl;
-// }
-// else
-// {
-//     cout << 0 << endl;
-// }
 
 int main()
 {
